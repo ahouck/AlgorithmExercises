@@ -61,8 +61,6 @@ class Node {
 
     /**
      * Recursive function to add new contact name to the structure
-     * @param {String} string 
-     * @param {int} index 
      */
     privateAdd(string, index) {
         this.nodeSize++;
