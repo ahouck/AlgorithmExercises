@@ -16,3 +16,5 @@ Each file represents one exercise with the problem stated in the comments in the
  ```
 
 All solutions are in Javascript ES6.
+
+
